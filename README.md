@@ -11,7 +11,7 @@ Currently, I used to Java, JavaScript, SQL and others. I love to challenge mysel
 
 In my graduation project, I have used to React, BootStrap, Firebase Authentication, Firebase Firestore, Firebase Functions, Google Cloud Platform, Node.js, Express.js, Line LIFF and Dialogflow to create web application that can help teacher and learning facilitator to keep score from activities in classes and student can check score from Line LIFF.
 
-**Hobbies**
+**Hobbies:**
 - Trade Crypto 💰
 - Play NFT game and other games 🎮
 - Listen Music 🎵
@@ -24,6 +24,8 @@ In my graduation project, I have used to React, BootStrap, Firebase Authenticati
 **My plan in this year (2022):**
 - Find opportunity to work in some company 💼
 - Trial MERN Stack in free-time 🧑🏻‍💻
+
+#### Email Address for contact : supakrit.akkeedet@gmail.com
 
 📈 **My GitHub Stats:**
 
